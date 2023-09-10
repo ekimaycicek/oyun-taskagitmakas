@@ -21,13 +21,13 @@ public class Oyun {
             System.out.println("yanlis bir secim yapilmistir.");
         } else {
 
-            // bilgisayar:1 kisi:1 berabere
-            // bilgisayar:1 kisi:2 kisi kazandi
-            // bilgisayar:1 kisi:3 pc kazandi
+            // pc:1 kisi:1 berabere
+            // pc:1 kisi:2 kisi kazandi
+            // pc:1 kisi:3 pc kazandi
 
-            // bilgisayar:2 kisi:1 pc kazandi
-            // bilgisayar:2 kisi:2 berabere
-            // bilgisayar:2 kisi:3 kisi kazandi
+            // pc:2 kisi:1 pc kazandi
+            // pc:2 kisi:2 berabere
+            // pc:2 kisi:3 kisi kazandi
 
             // bilgisayar:3 kisi:1 kisi kazandi
             // bilgisayar:3 kisi:2 pc kazandi
