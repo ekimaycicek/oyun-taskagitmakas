@@ -30,7 +30,7 @@ public class Oyun {
             // pc:2 kisi:3 kisi kazandi
 
             // pc:3 kisi:1 kisi kazandi
-            // bilgisayar:3 kisi:2 pc kazandi
+            // pc:3 kisi:2 pc kazandi
             // bilgisayar:3 kisi:3 berabere
 
             //istenilen deger araliginda giris yapilmistir.
