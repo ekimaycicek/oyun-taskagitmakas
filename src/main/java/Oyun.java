@@ -25,6 +25,7 @@ public class Oyun {
         if (kisi != 1 && kisi != 2 && kisi != 3) {
             System.out.println("yanlis bir secim yapilmistir.");
         } else {
+
             // bilgisayar:1 kisi:1 berabere
             // bilgisayar:1 kisi:2 kisi kazandi
             // bilgisayar:1 kisi:3 pc kazandi
