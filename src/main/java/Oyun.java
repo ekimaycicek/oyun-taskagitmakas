@@ -21,6 +21,7 @@ public class Oyun {
         Scanner input = new Scanner(System.in);
 
         kisi = input.nextInt();
+
         if (kisi != 1 && kisi != 2 && kisi != 3) {
             System.out.println("yanlis bir secim yapilmistir.");
         } else {
