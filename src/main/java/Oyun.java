@@ -17,6 +17,7 @@ public class Oyun {
         System.out.println("2.kagit");
         System.out.println("3.makas");
         System.out.println("Lutfen seciminizi yapiniz");
+
         Scanner input = new Scanner(System.in);
         kisi = input.nextInt();
         if (kisi != 1 && kisi != 2 && kisi != 3) {
