@@ -42,19 +42,19 @@ public class Oyun {
             if (pc == 1 && kisi == 2) {
                 System.out.println("kisi kazandi");
             }
-            if (bilgisayar == 1 && kisi == 3) {
+            if (pc == 1 && kisi == 3) {
                 System.out.println("pc kazandi");
             }
-            if (bilgisayar == 2 && kisi == 1) {
+            if (pc == 2 && kisi == 1) {
                 System.out.println("pc kazandi");
             }
-            if (bilgisayar == 2 && kisi == 3) {
+            if (pc == 2 && kisi == 3) {
                 System.out.println("kisi kazandi");
             }
-            if (bilgisayar == 3 && kisi == 1) {
+            if (pc == 3 && kisi == 1) {
                 System.out.println("kisi kazandi");
             }
-            if (bilgisayar == 3 && kisi == 2) {
+            if (pc == 3 && kisi == 2) {
                 System.out.println("pc kazandi");
             }
 
