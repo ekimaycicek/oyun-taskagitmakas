@@ -34,7 +34,7 @@ public class Oyun {
             // pc:3 kisi:3 berabere
 
             //istenilen deger araliginda giris yapilmistir.
-            //Degeri bilgisayar ile karsilastirmak gerekecektir.
+            //Degeri pc ile karsilastirmak gerekecektir.
 
             if (bilgisayar == kisi) {
                 System.out.println("berabere");
