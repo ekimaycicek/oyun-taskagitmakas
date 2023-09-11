@@ -7,6 +7,7 @@ public class Oyun {
 
 
         int kisi, pc;
+
         //bilgisayar 1 ile 3 araliginda random deger tutacak
 
         Random rnd = new Random();
