@@ -6,11 +6,11 @@ public class Oyun {
     public static void main(String[] args) {
 
 
-        int kisi, bilgisayar;
+        int kisi, pc;
         //bilgisayar 1 ile 3 araliginda random deger tutacak
         Random rnd = new Random();
-        bilgisayar = rnd.nextInt(3) + 1; //bilgisayar 1-3 araliginda deger tutacak.
-        System.out.println("bilgisayar" + bilgisayar);
+        pc = rnd.nextInt(3) + 1; //bilgisayar 1-3 araliginda deger tutacak.
+        System.out.println("bilgisayar" + pc);
         System.out.println("1.tas");
         System.out.println("2.kagit");
         System.out.println("3.makas");
@@ -36,10 +36,10 @@ public class Oyun {
             //istenilen deger araliginda giris yapilmistir.
             //Degeri pc ile karsilastirmak gerekecektir.
 
-            if (bilgisayar == kisi) {
+            if (pc == kisi) {
                 System.out.println("berabere");
             }
-            if (bilgisayar == 1 && kisi == 2) {
+            if (pc == 1 && kisi == 2) {
                 System.out.println("kisi kazandi");
             }
             if (bilgisayar == 1 && kisi == 3) {
