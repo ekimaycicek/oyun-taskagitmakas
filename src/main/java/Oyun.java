@@ -9,7 +9,6 @@ public class Oyun {
         int kisi, pc;
 
         //bilgisayar 1 ile 3 araliginda random deger tutacak
-
         Random rnd = new Random();
         pc = rnd.nextInt(3) + 1; //bilgisayar 1-3 araliginda deger tutacak.
         System.out.println("bilgisayar" + pc);
